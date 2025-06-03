@@ -23,3 +23,4 @@ A simple Python command-line game where you try to guess a randomly generated nu
 ## License
 
 This project is for educational purposes.
+
